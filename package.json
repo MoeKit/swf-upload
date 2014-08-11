@@ -1,0 +1,8 @@
+{
+    "name": "swf-upload",
+    "version": "2.2.0",
+    "spm":{
+        "main":"swfupload.js",
+        "output":["Flash/swfupload.swf"]
+    }
+}
